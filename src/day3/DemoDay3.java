@@ -6,4 +6,7 @@ public class DemoDay3 {
 		System.out.println("Hayder...");
 	}
 
+	String country="USA";
+	String state="MA";
+
 }
